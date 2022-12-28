@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.loginform.resources
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\HumanResourseManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\HumanResourceManagement.accdb
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.homepage.resources
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.department.resources
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.employee.resources
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.performance.resources
+C:\Users\Acer\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.admin.resources
